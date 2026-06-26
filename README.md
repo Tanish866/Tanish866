@@ -1,9 +1,15 @@
-<div align="center"> 
-  <h1>👋 Hi, I'm Tanish Singh</h1>
-  <h3>Aspiring Software Developer | Frontend / Full-Stack Developer | Problem Solver</h3>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Tanish+Singh+👋)
+
 </div>
 
+<div align="center">
 
+
+### Aspiring Software Developer | Frontend / Full-Stack Developer | Problem Solver
+
+</div>
 
 ---
 
@@ -42,9 +48,9 @@ const me = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanish866&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish866&theme=tokyonight" />
 </p>
 
 ---
@@ -52,15 +58,15 @@ const me = {
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/USERNAME/">
+  <a href="https://leetcode.com/Tanish866/">
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/USERNAME/">
+  <a href="https://www.geeksforgeeks.org/user/Tanish866/">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/USERNAME">
+  <a href="https://codeforces.com/profile/Tanish866">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" />
   </a>
 </p>
@@ -74,18 +80,19 @@ const me = {
 ## 📫 Contact & Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/tanish-singh-818a46323/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:your_email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Tanish866">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ⭐ *Feel free to explore my repositories and connect with me!*
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
