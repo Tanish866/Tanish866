@@ -17,12 +17,12 @@
 
 ```js
 const me = {
-  role: "Aspiring Software Developer (Frontend / Full-Stack)",
+  role: "Frontend / Full-Stack Developer",
   education: "BTech '28 @ KIET",
   interests: ["Frontend Development", "Full-Stack Development", "Problem Solving"],
-  currentlyLearning: ["Advanced React", "DSA", "Backend Fundamentals"],
-  askMeAbout: ["JavaScript", "React", "Git", "Web Development Basics"],
-  funFact: "I enjoy turning ideas into working applications 🚀"
+  currentlyLearning: ["Backend Development", "System Design", "DSA"],
+  askMeAbout: ["JavaScript", "TypeScript", "React", "Next.js", "GraphQL", "Docker", "Git"],
+  funFact: "I enjoy turning ideas into scalable applications 🚀"
 };
 ```
 
@@ -38,9 +38,12 @@ const me = {
 ---
 
 ## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,java,c,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=graphql,docker,java,c,python,git,github,vscode,postman" />
 </p>
 
 ---
